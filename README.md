@@ -178,7 +178,7 @@ GovDefence/
 
 ## ❤️ **Remerciements**
 
-> Ce projet est dédié à la **Fraternité Digitale** — collectif informel de défenseurs de la souveraineté numérique, de l’éthique hacker, et de la résilience citoyenne.
+> Ce projet est proposé par la **Fraternité Digitale** — collectif informel de défenseurs de la souveraineté numérique, de l’éthique hacker, et de la résilience citoyenne.
 
 Merci à :
 - La communauté **Termux** et **iSH** pour la démocratisation du terminal sur mobile
