@@ -1,31 +1,5 @@
-```
-🛡️ GovDefence v8.0 – OSINT & Honeypot Suite
-
-**"La souveraineté commence par la connaissance."**
-
-██████╗  ██████╗ ██╗   ██╗██████╗ ███████╗███████╗███╗   ██╗
-██╔══██╗██╔═══██╗██║   ██║██╔══██╗██╔════╝██╔════╝████╗  ██║
-██████╔╝██║   ██║██║   ██║██║  ██║█████╗  █████╗  ██╔██╗ ██║
-██╔═══╝ ██║   ██║██║   ██║██║  ██║██╔══╝  ██╔══╝  ██║╚██╗██║
-██║     ╚██████╔╝╚██████╔╝██████╔╝███████╗███████╗██║ ╚████║
-╚═╝      ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═══╝
-GovDefence v8.0 – FULL PACK FINAL
-
-Suite **éthique** multi-OS (Linux/WSL/Termux/iSH) pour recon passive + honeypot Cowrie.
-DNS/CMS/IP leaks/email/phone + logging pro. **Production-ready**.
-
-🚀 **Demo** : `./Govdefence.sh` → Menu futuriste auto-adapté
-🛡️ **Usage** : Lab perso • Pentest légal • Éducation
-📱 **Mobile-first** : Fonctionne sur Android/iOS !
-
-⭐ **Fraternité Digitale** – Open source défense citoyenne
-MIT License • Contributions bienvenues → CONTRIBUTING.md
-```
-
-## CONTRIBUTING.md complet – pro et accueillant
-
 ```markdown
-# 🙌 **Contribuer à GovDefence** – *Fraternité Digitale*
+ 🙌 **Contribuer à GovDefence** – *Fraternité Digitale*
 
 > **"Défendre ensemble, c'est gagner ensemble."**  
 > Merci d'être là ! Chaque contribution renforce notre souveraineté numérique. ✊
